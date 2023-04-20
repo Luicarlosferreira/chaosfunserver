@@ -1,7 +1,7 @@
-<<<<<<< HEAD
 # chaosfunserver
-A little project with next in a incredible enviroment.  I start this project just to see how works a simple static pages, so i made a simple design pattern and i improved my skills with next and react to implement this.  I just used taillwindCss, Next, react-icons, layout systems and responsive design.
-=======
+
+# A little project with next in a incredible enviroment. I start this project just to see how works a simple static pages, so i made a simple design pattern and i improved my skills with next and react to implement this. I just used taillwindCss, Next, react-icons, layout systems and responsive design.
+
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
@@ -40,4 +40,5 @@ You can check out [the Next.js GitHub repository](https://github.com/vercel/next
 The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
 
 Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
->>>>>>> 2f8f1b8 (uploading the project to git)
+
+> > > > > > > 2f8f1b8 (uploading the project to git)
